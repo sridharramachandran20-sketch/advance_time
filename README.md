@@ -63,15 +63,15 @@ This makes it ideal for testing deep learning models.
 
 The following preprocessing steps were applied:
 
-✔ Handling Missing Values
+Handling Missing Values
 
 Checked and ensured no null values were present.
 
-✔ Normalization
+Normalization
 
 MinMaxScaler was used to scale data between 0 and 1 to improve neural network training stability.
 
-✔ Windowing (Sequence Creation)
+Windowing (Sequence Creation)
 
 A sliding window technique was used:
 
